@@ -135,5 +135,3 @@ def save_team_data(team_name, team_color, passes):
 
 if __name__ == '__main__':
     main()
-
-
